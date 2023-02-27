@@ -19,7 +19,7 @@ Para instalar el proyecto, sigue los siguientes pasos:
 
 Clona el repositorio en tu máquina local:
 
-git clone https://github.com/tu-usuario/proyecto-pokeapi.git
+git clone https://github.com/sthannais/Pokemon-block-with-apis.git
 
 Ingresa a la carpeta del proyecto:
 
