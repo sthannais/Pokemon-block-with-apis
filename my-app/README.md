@@ -29,4 +29,4 @@ Instala las dependencias
 npm install
 
 Para ejecutar la aplicación, utiliza el siguiente comando:
-npm star
+npm start 
